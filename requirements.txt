@@ -2,3 +2,6 @@ streamlit
 boto3
 langchain
 langchain_community
+selenium
+beautifulsoup4
+tldextract
