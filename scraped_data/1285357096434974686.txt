@@ -1,0 +1,753 @@
+URL: https://www.udelphi.com/
+
+Delphi Software: Inspired by Innovations
+About
+Delphi Software:
+Your Trusted Partner for Premium R&D Engineering Solutions and Services.
+With a strong presence in Ukraine and Poland, we empower businesses to excel in the global digital landscape. Our mission is centered on
+propelling our partners to thrive, enhancing their business agility, amplifying revenue, curbing costs, and refining quality. Seamlessly augmenting partner R&D teams, we ignite innovation, shaping pioneering products, and revolutionizing conventional solutions.
+30 Years 
+Since 1993, Delphi Software has been delivering software engineering services to partners across Israel, the United States, and Europe. Today,
+we center our focus on domains critical to modern success: Digital Transformation, Customer Experience, FinTech, Cloud Solutions, and Mixed Reality.
+400 Engineers
+More than 90% of Delphi Software's workforce holds advanced engineering degrees and specialized technology certifications. Our team boasts remarkable stability, well surpassing the industry average, owing to the exceptional job and educational prospects we offer to our dedicated employees.
+Partners
+Delphi Software is committed to cultivating enduring partnerships with our partners. Our collaboration extends to multi-billion-dollar global enterprises, where we drive digital transformation and cost efficiency. We also engage with
+thriving startups, contributing our seasoned experts and strategic insights.
+We encompass a wide array of industries, spanning Telecom, Banking, Insurance, Automotive, Global Financial Services and other areas.
+news 1 of 84 December 25, 2024: Merry Christmas!
+This holiday season, we wish you peace, joy, and warmth with your loved ones.
+May the spirit of Christmas bring harmony to every heart and hope for brighter days ahead ✨🎄
+Thank you to our amazing team and partners for your dedication and support throughout the year.
+Together, we look forward to achieving even greater things in the year to come💙
+Careers
+All
+Ukraine
+Europe
+We are always on the lookout for talented professionals and unique personalities. If you think you are the perfect match for Delphi Software, please get in touch for our future job openings.
+@Please send us your CV or comments.
+Senior Back End Java Developer
+Out Partner is Europe’s leading marketplace for working capital financing. Based in Munich, Germany, it founded in 2012. We are offering the possibility to step up your professional development through hands-on experience in a state-of-the-art FinTech environment. Our platform is built for the cloud ensuring high scalability and resilience and integrates with external systems via heavy duty middleware. You get the unique chance to push your career by gaining first-hand […]
+Out Partner is Europe’s leading marketplace for working capital financing. Based in Munich, Germany, it founded in 2012.
+We are offering the possibility to step up your professional development through hands-on experience in a state-of-the-art FinTech environment. Our platform is built for the cloud ensuring high scalability and resilience and integrates with external systems via heavy duty
+middleware. You get the unique chance to push your career by gaining first-hand business experience from a network of the most innovative and capable minds in the German finance industry.
+RESPONSIBILITIES
+Participate in the requirement engineering process to identify and discuss new features, improvements, and bugs within an agile environment
+Collaborate with other teams to identify and resolve production issues, while maintaining a deep understanding of the technologies employed by the Platform Enabler team
+Perform high- and low-level design, provide pseudo codes, implement prototypes, and conduct reviews
+Uphold top-tier Testing & Quality Assurance standards, utilizing unit testing, integration testing, and other validation methods
+Lead and engage in Code Reviews, promoting continuous improvement, best practices, and collaborative learning
+Research & evaluate new technologies for potential integration into our platform
+Support and mentor junior team members to enhance overall team performance
+SKILLS
+5+ years of experience with enterprise stack (Spring or similar)
+Core experience, critical for operations:
+Core: Java (v21+), Spring Boot (v3+), Microservice Architecture
+Data Access: Spring @Transactional, JPA / Hibernate, ANSI SQL, PostgreSQL
+TDD: JUnit 5, Mockito
+Messaging & APIs: Apache Kafka, Spring MVC @RestController
+Build & CI: Git, Maven
+Previous Experience which will be beneficial and significantly shorten onboarding:
+Security: Spring Security, OIDC
+Data Access: jOOQ, Flyway Migrations
+TDD: AssertJ, Selenium, Serenity, Selenite
+Messaging & APIs: Retrofit, JAX-WS
+Build & CI: Docker, Docker Compose
+Message Routing & Orchestration: Apache Camel
+Nice to have Experience for effective collaboration with other teams:
+Security: Inbound Identity Federation
+Data Access: QueryDSL
+TDD: Storybook.js
+Build & CI: npm, Jenkins, GitLab, Upsource, SonarQube
+Message Routing & Orchestration: Apache Camunda
+Frontend: SASS, CSS-3, HTML-5, React (Hooks, ES-3, Jest), JSF (PrimeFaces, Omnifaces)
+Infrastructure: Terraform, K8s, Helm, POSIX, DataDog, Matomo,
+Sentry.io, AWS (RDS, MSK, EC2, EFS, S3)
+Excellent programming aptitude, ability for logical and abstract thinking
+Team player with a focus on delivering exceptional results in a fast — paced company
+Upper-Intermediate level of English
+WE OFFER
+Work in a creative friendly environment using cutting-edge technologies.
+Work-life balance and flexible schedule.
+Competitive compensation with focus on your expectations; annual salary review.
+24-day paid vacation and 100% paid sick leave.
+Financial support and legal support for individual entrepreneurs from our side.
+Professional, language and soft skills trainings.
+Health insurance coverage: individual and family, Fitness plan.
+@Apply FOR This Job
+Middle / Senior Front End Vue.js Developer
+NICE Systems, our long-term partner from Israeli hi-tech domain, architect and deliver top-notch software solutions that empowers organizations to capture, analyze and apply insights from both structured and unstructured Big Data. Right now, NICE is establishing a new group for a new product and we’re proud to be a part of it! If you are looking for technology challenges, prefer to follow Agile routines and […]
+NICE Systems, our long-term partner from Israeli hi-tech domain, architect and deliver top-notch software solutions that empowers organizations to capture, analyze and apply insights from both structured and unstructured Big Data. Right now, NICE is establishing a new group for a new product and we’re proud to be a part of it! If you are looking for technology challenges, prefer to follow Agile routines and ready to explore new professional horizons, this opportunity is for you.
+Join NICE Systems, the worldwide leading provider of software solutions in real time insights and analytics from both structured and unstructured Big Data.
+We are looking for Senior Front End Vue.js Developer who will join to our international team with offices in Tel-Aviv and Vinnytsia.
+RESPONSIBILITIES
+Deliver User Story as a whole team — Backend and Frontend team work together on every feature, while QA maintains stability of the new features.
+Provide leadership to the development team, ensuring effective collaboration, task delegation, and alignment with project goals while fostering a productive and supportive team environment.
+Principles used — best practices, patterns, supportability, observability, stability, and scalability
+Internal DevOps team is available to help you with deployment and provisioning.
+Work together on code reviews with the core team.
+SKILLS
+5+ years of experience in developing on Vue. js 3
+Experience with Node (16+)
+Experience with typescript (5.3)
+Experience with Quasar 2 for UI (nice to have)
+BS/MS degree in Computer Science, Engineering or a related subject
+Nice to have:
+Experience with Docker, Rasa, and Python
+Upper-intermediate level of English
+WE OFFER
+Work in a creative friendly environment using cutting-edge technologies.
+Work-life balance and flexible schedule.
+Competitive compensation with focus on your expectations; annual salary review.
+24-day paid vacation and 100% paid sick leave.
+Financial support and legal support for individual entrepreneurs from our side.
+Professional, language and soft skills trainings.
+Health insurance coverage: individual and family, Fitness plan.
+@Apply FOR This Job
+Senior React Developer
+Join us, the solution of Virtual Edge unifies multiple Edges into one platform by creating a virtual environment that integrates all your existing CDN platforms. Looking for a Frontend Developer specializing in web-based graphical user interfaces, data visualization, and backend logic. We are looking for a Frontend Developer who will join our international team with an office in Kyiv. RESPONSIBILITIES SKILLS WE OFFER
+Join us, the solution of Virtual Edge unifies multiple Edges into one platform by creating a virtual environment that integrates all your existing CDN platforms. Looking for a Frontend Developer specializing in web-based graphical user interfaces, data visualization, and backend logic.
+We are looking for a Frontend Developer who will join our international team with an
+office in Kyiv.
+RESPONSIBILITIES
+Lead the architectural design and planning phases of web applications using React.js
+Create, design, and implement develop complex applications, enhancing existing functionality
+Implement responsive and user-friendly interfaces that enhance user experience
+Work closely with the client to understand requirements and translate them into technical solutions. Have strong analytical and problem-solving abilities
+Conduct code reviews to ensure adherence to coding standards, best practices, and design patterns
+SKILLS
+Bachelor’s degree (or equivalent) in Computer Science, Engineering, or a related field.
+At least 5 years of experience with React framework
+Proficiency in front-end technologies such as HTML5, CSS3, TypeScript, JavaScript, and related libraries (e.g., Redux)
+As a plus have experience in backend technologies including Python and Django
+Experience with cloud platforms, such as AWS, GCP, Azure
+Strong knowledge in architectural design, design patterns, design anti-patterns
+Upper-Intermediate level of English
+WE OFFER
+Work in a creative friendly environment using cutting-edge technologies
+Work-life balance and flexible schedule
+Competitive compensation with focus on your expectations; annual salary review24-daypaid vacation and 100% paid sick leave
+Financial support and legal support for individual entrepreneurs from our side
+Professional, language and soft skills trainings
+Health insurance coverage: individual and family, fitness plan
+@Apply FOR This Job
+Senior Back End Node.js Developer
+Perimeter 81, as part of Check Point, is a leading cybersecurity unicorn that is reshaping the way businesses connect their employees and resources in the modern digital era of cloud and remote work. Recognized as a Gartner Cool Vendor and Forrester New Wave Leader™, we have secured over $100M in funding from top-tier investors such as Insight Partners, B-Capital, and Toba Capital. With over 200 employees spread across […]
+Perimeter 81, as part of Check Point, is a leading cybersecurity unicorn that is reshaping the way businesses connect their employees and resources in the modern digital era of cloud and remote work. Recognized as a Gartner Cool Vendor and Forrester New Wave Leader™, we have secured over $100M in funding from top-tier investors such as Insight Partners, B-Capital, and Toba Capital. With over 200 employees spread across offices in New York, Los Angeles, and Tel-Aviv, we offer a global and multicultural work environment. Serving more than 2,800 customers, including leading businesses of all sizes and industries, we are experiencing rapid growth.
+Join us and be part of a team that values innovation, collaboration, and excellence in cybersecurity!
+RESPONSIBILITIES
+Take ownership of the end-to-end development process for software components/services, including research, design, development, testing, rollout, and monitoring.
+Contribute to key technological and architectural decisions to drive innovation and scalability.
+Mentor and guide other engineers within the team through activities such as code reviews, dedicated sessions, and pair programming.
+Analyze and enhance the efficiency, scalability, and stability of various system components.
+Collaborate closely with Designers, Product Managers, and Software Engineers to ensure the delivery of high-quality products to our customers/
+SKILLS
+6+ years extensive experience with Node.js/TypeScript.
+Proven track record of designing and building native-cloud web applications from scratch on AWS.
+Strong understanding of microservice architecture, including serverless (lambda).
+Experience working in Agile scrum teams.
+Solid grasp of design patterns, software development techniques, and clean code practices.
+A team player with a proactive and can-do approach.
+Experience with Test-Driven Development (TDD) and Behavior-Driven Development (BDD) is a plus.
+Bachelor’s degree in computer science/engineering
+Upper-Intermediate level of English.
+WE OFFER
+Work in a creative friendly environment using cutting-edge technologies.
+Work-life balance and flexible schedule.
+Competitive compensation with focus on your expectations; annual salary review.
+24-day paid vacation and 100% paid sick leave.
+Financial support and legal support for individual entrepreneurs from our side.
+Professional, language and soft skills trainings.
+Health insurance coverage: individual and family, Fitness plan.
+@Apply FOR This Job
+Digital Enterprise
+Elevate your business by integrating technology and innovation at its core
+Contact Center Interaction Recording
+Success Story
+NICE Systems
+enables organizations to record all channels and agent screens in one place, effectively addressing contact center compliance requirements. It simplifies the process of risk mitigation and adherence to GDPR, PCI and HIPAA standards with encryption, automated and on-demand masking, consent-based recording, extensive retention options, and key management.
+NICE supports various options for its solutions’
+distributed deployment, configuration and applications set supporting Cloud SaaS, On-Prem and Hybrid solutions.
+In 2008, NICE started expanding offshore from their home office and opted to partner with Delphi Software.
+#client_challenge
+Develop and maintain recording platform supporting
+multi-Cloud (AWS, Azure) and on-Prem as well as Windows and Linux based
+Integrate recording platform with UCaaS (MS Teams, Amazon Connect) and on-Prem (Avaya, Cisco) Contact Center solutions
+Develop and maintain existing monolith enterprise product with thousands of customers install-base and in parallel introduce a new micro-service native Cloud platform with the same capabilities
+Revise and reallocate responsibilities within the development team in response to the latest Agile trends
+#delphi_solution
+Despite the numerous challenges involved in this project, Delphi exceeded client expectations
+During the recent years of Delphi and NICE Systems partnership, Delphi has successfully developed
+over six major product releases, organized and built a highly stable team of 150+ engineers across R&D, Architect, Testing, DevOps and TW
+Perform regularly customer’s data analysis and logic validations – remotely and on site – for each critical case
+Introduce the full Agile approach for multi-location teams
+#technology_stack
+AWS, MS Azure, Windows, Linux | C#, .Net | Java, Spring | JS, HTML, CSS, XML, Ajax, JSON, jQuery, Angular | C/C++ | Delphi | Go | MS SQL
+MS Hyper-V, VMWare | Jenkins, MS TFS, GitHub, Jira, Synergy, Bash, NuGet | TCP/IP, SSL/TLS | NAT/PAT, Networking | HP QTP, MS Coded UI, Page Object, Cucumber)
+MTM, X-Ray, HP LoadRunner | WebRTC, RTP/SIP Stack | Black Duck, Veracode, Fortify | TDD, BDD
+@Please contact us, if you need more information.
+Choosing Building Contractor
+Success Story
+Construct Secure (now HighWare) is the program initiated by the Environmental Health and Safety Department (EH&S) at Harvard University. One of the missions of EH&S is to identify the most effective ways to reduce the cost of accidents, incidents and project delays.
+Delphi was requested to provide ConstructSecure with a web system to score various building companies by different criteria. The information about each company might be submitted via various input channels.
+In 2021, ConstructSecure obtained an investment from Summit Partners and was renamed to Highwire. Delphi was also involved in the development of a new system for Highwire.
+#client_challenge
+Frequent changes in development deadlines
+Lack of local employees with the required level of seniority
+The team should be able to work independently and support project clients for a long time
+Support two systems: old “ConstructSecure” and new “Highwire”
+#delphi_solution
+Establish the team in 2008 and expand it to 20 engineers within 14 years
+Assist the client in transitioning from a startup company to an industry standard – for example, one of the current clients is Google
+Develop the set of web-based solutions, both desktop and mobile, from the scratch
+Suggest and implement various ideas and continuous updates in the testing and customer support areas
+In 2021, switch the team to working with new technologies for the development of a new system for Highwire
+#technology_stack
+C#, JavaScript, HTML5, AWS, ASP.NET, .NET Windows Forms | MongoDB, MS SQL | Tesseract OCR, Nuance OCR | Selenium
+Java, Angular, Python, PostgreSQL, AWS Textract, AWS Translate, Nuance OCR, Kotlin, Swift, Objective-c
+@Please contact us, if you need more information.
+Trading Diamonds via Mobile
+Success Story
+Rapaport Group is an international network of companies providing first-class, added-value services that support the development of free, fair, efficient, and competitive
+diamond and jewelry markets since 1970.
+The company digitalizes very fast, covering both web and mobile segments. In particular, the company’s main site functionality – diamonds trading – should be supported via native mobile
+iOS and Android applications.
+#client_challenge
+Implement the new flow for diamonds trading as the complex solution to affect server-side and mobile clients
+Provide UX flows and detailed descriptions for the needed solution
+Develop the architecture of the system
+Work out methods to implement and realize Trade Center functionality
+#delphi_solution
+Analyze verbal description from the client and discuss potential risks and issues
+Design and implement new UX / UI ideas
+Create the architectural solution based on UX flows and general vision
+Implement mobile solutions for both iOS and Android platforms
+Collect user feedback and repeat the implementation process to meet user requirements
+#technology_stack
+Java for Android native client, Objective C, Swift for iOS client
+Various external libraries for iOS and Android such as SendBird for the chatting system and Abbly for mobile notifications
+UI\UX tools
+@Please contact us, if you need more information.
+Content Deployment Solution for Auto Dealers
+Success Story
+Sales Department Organization of one of the largest global auto manufacturers must ensure that its marketing and sales materials are up-to-date.
+A sales representative, who works with other dealers as well as direct customers, should be able to demonstrate the recent 3D car models, advertisements, supporting software and other relevant data. The updated content should be
+deployed automatically from the main office and verified after the delivery in order to fully automate the process and make it reliable.
+#client_challenge
+Design and develop the content deployment solution – 3D models, videos, software updates – for more than 50 auto dealers worldwide
+Support for the significant amount of the delivered content – up to 2 GB
+Expand internal infrastructure to enhance communication between various centers around the globe
+#delphi_solution
+Design and develop the requested software for package deployment and verification as well as update packages less than in a year
+Introduce the packages optimization approach in order to alleviate delivery of large content chunks
+Enhance and improve
+security procedures
+#technology_stack
+.NET, C# | Java, JavaScript | TFS, Azure, AWS
+@Please contact us, if you need more information.
+Defect-Free Software Solution
+Success Story
+Parasoft provides innovative tools to support software organizations in successfully developing and deploying applications across embedded, enterprise, and IoT markets. This enables them to
+deliver software products that are free from defects.
+Parasoft’s solutions automate the time-consuming testing tasks and provide the intelligent analytics by integrating static and runtime analysis; unit, functional, and API testing; and service virtualization.
+The static analysis is grounded on the broad support for different languages and standards like Security, C/C++, Java, .Net, FDA, Safety-Critical etc.
+#client_challenge
+One of the solutions provided by Parasoft covers a wide range of static and runtime analysis, unit testing, requirements traceability, coverage analysis, API testing, dev/test environment management, service virtualization and more
+Efficiently and quickly implement a significant volume of new rules for static code analysis, requiring the engineering team’s expertise and complete focus despite the repetitive nature of the task
+Prevent software defects and eliminate the need for rework, thus reducing technical debt
+Focus development efforts on quality priorities that have the greatest impact
+Comply with internal, industry, and government standards
+Integrate security best practices into application development
+Leverage multivariate analysis
+to discover application hotspots that harbor hidden defects and vulnerabilities
+#delphi_solution
+Organize the effective development of static code analysis rules designed to ensure MISRA compliance, and generate test cases for Parasoft C/C++ test platform
+Allow Parasoft to concentrate on platform development itself, while Delphi Software takes care of rule implementation and test case preparation
+Ensure the flexibility of the engineering team’s headcount based on the scope of each Sprint
+Secure resources while mitigating the overhead of Agile 
+Provide automated testing, reporting, and intelligent analytics for the rigors of continuous testing and overhead introduced by Agile
+Sustain broad support for MISRA safety/security standard and best practices
+#technology_stack
+C, C++, static code analyzing utilities
+@Pleasecontact us, if you need more information.
+FinTech
+Leverage the power of technology to digitize your financial offerings
+Seamless Cross-Border E-Commerce
+Success Story
+Global-e
+is a leading global provider of comprehensive cross-border solutions that enables retailers to sell to customers in more than 200 destinations worldwide, offering a localized, seamless international customer experience.
+The company provides a unique technology-based, end-to-end solution for online merchants to handle cross-border sales.
+Delphi Software has been collaborating with Global-e since 2013, completing the entire journey from a startup to a NASDAQ traded company.
+#client_challenge
+Elaborate on an extremely high-loaded e-commerce platform to support hundreds of global retailers and brands worldwide
+Make the platform flexible for updates and extensions, allowing it to handle increased loads
+Be able to expand functionality and introduce a set of new features related to the client requirements and based on the core platform
+Implement common scenarios of integration with online shops as well as customization
+24/7 support during workload period like Black Friday and Christmas
+#delphi_solution
+Flexibly react to changes in requirements in line with an aggressive time schedule
+Efficiently support new logic and requirements addressing
+cross-browser issues, standards and responsive design
+Ensure integration with the specific printing hardware
+Participate in technical planning & requirements gathering phases including design, code, test, troubleshooting, and document engineering software applications
+Help the client with
+On-Call duties during peak times
+#technology_stack
+MVC, C#, .Net Core | DHL, FexEx, UPS | MS SQL, Oracle | JavaScript, React | AJAX | HTML | CSS | JSON
+Integration with Shopify, Magento, Sales Force Commerce Cloud and more
+Payment systems: Adyen, WorldPay, Klarna, PayPal and more
+Shipping services: Rakuten, Aramex, UPS, FedEx, DHL  and more
+Marketplaces: Rakuten, Amazon Japan
+@Please contact us, if you need more information.
+Working Capital Financing Solution
+Success Story
+One of our partners is FinTech area is a Europe’s leading marketplace for working capital financing that allows to optimize a client’s cash flow through global marketplace and to draw upon a diversified liquidity pool across all other company’s products. The existing state-of-the-art FinTech platform
+is built for the cloud ensuring high scalability and resilience, including integrations with external systems via heavy-duty middleware.
+In 2021, this company decided to enforce their local R&D team with skilled engineers from Delphi Software.
+#client_challenge
+After nine years of ongoing business, which demonstrated significant progress in financial services, our client decided to redesign its platform to align with current market demand
+To achieve this, our client decided to bolster the team with highly experienced engineers in FinTech area. All candidates were required to meet the elevated standards set by our client, necessitating a meticulous talent acquisition process and alignment with the client’s organizational culture
+#delphi_solution
+Due to clearly built processes and rich expertise in different business areas, Delphi managed to create an ad hock core team of experienced engineers
+The team quickly joined the project and became valuable contributors to the company.
+#technology_stack
+Java, Spring, Hibernate, AWS, Docker, Kubernetes
+Micro services, DI, Web, Security, JDBC, JPA, JOOQ
+REST, Kafka, React, JavaScript, PostgreSQL
+@Please contact us, if you need more information.
+Diamonds Jewelry Web Solution
+Success Story
+Rapaport Group is an international network of companies providing first class, added value services that support the development of free, fair, efficient and competitive
+diamond and jewelry markets since 1970.
+Delphi Software assists Rapaport in a full-cycle development of Trading Jewelry platform that should be seamlessly integrated into the existing company web portfolio.
+#client_challenge
+Estimate the viability of a turnkey solution in a short period of time and without well-elaborated documentation
+Provide advanced and fast search functionality
+Allow clients to upload inventory with cumbersome details through a trusted channel with verification
+Support peak loads
+Integrate this stand-alone model into the existing company software infrastructure
+Support extremely fast inventory importing from a huge number of concurrent users
+Extend the existing portal with new web pages
+#delphi_solution
+Design, confirm and develop the corresponding microservices backend architecture
+Organize effective collaboration between the client and the local team Implement the Agile
+#technology_stack
+React, redux-saga, HTML5, Bootstrap, SASS, ES7, Web Pack
+.NET Core, AWS (S3, SQS), PostgreSQL, ElasticSearch, Docker/Kubernates, Redis, JMeter
+@Please contact us, if you need more information.
+Internet Pharmaceutical Platform
+Success Story
+Grinta is a rapidly expanding startup based in Egypt and some other regions of Africa, functioning as a service integrator for sales and distribution within the pharmaceutical area. It comprises warehouse infrastructure and 200+ employees.
+In May’23, Grinta received Endeavor’s Award.
+#client_challenge
+The fast pace of the growing business demanded a platform for optimizing operations and logistical processes in different regions. The crucial aspects were the performance of the core system and ensuring that all customers could operate on mobile devices.
+#delphi_solution
+Delphi Software involved an ad hoc team of experts in evaluating and creating a mobile application with an aggressive schedule tied with a marketing campaign.
+Despite multiple changes in requirements, the mobile application was released in the planned time for the target audience
+with the continuous support of our team. Throughout the adoption period, it empowers customers to swiftly respond to user requests and attract a greater number of users to the market.
+With the success of the mobile application, Delphi Software gained the customer’s trust and got a request to expand the local team by 20% at once with our experts and improve core platform performance.
+#technology_stack
+Azure Cloud, Azure Devops, Microservices, RabbitMQ, MS SQL & Azure Cosmos DB, .Net Core 6, C#
+Android, Kotlin, Android JetPack, Clean Architecture, Model–view–viewmodel, Firebase, CleverTap, Amplitude, XML, Coil
+@Please contact us, if you need more information.
+Automotive Digital Merchandising
+Success Story
+Sim Direct is a professional software development agency specializing in tailored business solutions.
+Thanks to a diverse team of expert developers, they can offer a comprehensive portfolio of solutions ranging from specialist business software to custom mobile sites and multi-platform smartphone applications. They are a cutting-edge Customer Relationship Management and Direct Marketing solutions provider.
+#client_challenge
+Need to upgrade the solid and stable R&D team and to engage skilled engineering resources
+Support
+the legacy technology stack Follow the tight development schedule to cover marketing goals
+Expand into the Pacific region, Western Europe and US markets
+#delphi_solution
+Allocate the R&D team of senior engineers in one day 
+Ramp up and engage into the projects extremely fast
+Manage the tight collaboration with the client on day-to-day basis
+Provide efficient DevOps support
+Provide distinguished UI/UX prototyping
+#technology_stack
+Android SDK, iOS SDK, PHP
+Java/Kotlin, Swift, Symfony2, Laravel
+Theta library, Panarama GL, SceneKit, UIKit, AVFoundation, QuartzCore, MediaPlayer, SafariServices, WebKit, CoreGraphics, CoreImage, CoreLocation, CoreMotion Machine Learning algorithms
+@Please contact us, if you need more information.
+Short-Term Loan System
+Success Story
+Uncle Buck
+company, located in the UK, provides online short-term cash loans for the local community.
+The company developed and continuously improved the corresponding analytical model to determine the appropriate level of trust for each applicant.
+The algorithm is supported by the in-house developed web-based solution that integrates with more than ten various 3rd-party components.
+The Delphi team was invited
+to assess the existing solution and to provide ideas for its upgrade.
+#client_challenge
+The current system has many “on-demand” updates implemented without a proper initial analysis
+The existing architecture couldn’t efficiently handle today’s number of concurrent users.
+Some 3rd party components have already become obsolete
+Website UI / UX is “old-fashioned” and not attractive enough
+Because of the haphazard addition of features and 3rd party components, along with the increasing number of users, the system has become unstable
+#delphi_solution
+Study and evaluate the existing system with all the external components by on-site meetings and the remote analysis
+Gather and elaborate the new requirements from all the company’s stakeholders
+Provide a thorough analysis of the system’s drawbacks, along with ideas on how to overcome them 
+Prepare a set of functional & design documents for system major upgrade
+Outline the project for implementing new updates and perform the corresponding risk analysis
+#technology_stack
+.Net, MS SQL, Entity Framework, AJAX, JSON, Bootstrap, Modernizr, JQuery, JavaScript
+@Pleasecontact us, if you need more information.
+Customer Experience
+Enchant your clients with fresh insights into the customer journey
+Natural Language Automotive Solution
+Success Story
+Delphi Software has been collaborating with a global industry leader to create a unique speech experience for the automotive world. The expertise is sophisticated artificial intelligence, natural language understanding, voice biometrics, gesture and gaze technology, and augmented reality.
+The corresponding range of software solutions elevates the driver’s user experience to an unprecedented level and is widely embraced and customized by the world’s leading automakers.
+#client_challenge
+Ramp up a large R&D team in automotive domain in a short period of time
+Work on tough project schedules and in distributed teams Deal with technology challenges and hardware caveats
+Manage the diverse requirements for a variety of different engineering skills
+#delphi_solution
+Establish and train a fully-function R&D team of 50+ engineers in six month
+Conform to the agility of task force reallocations within the project due to business needs
+#technology_stack
+Natural Language Understanding & Dialog development
+Artificial Intelligence
+Embedded Linux, C++, Android, Python
+@Please contact us, if you need more information.
+Conversational Solution with Real Experts
+Success Story
+LivePerson (now Ingenio) is a global technology company that specializes in developing conversational commerce and AI software empowering companies to effectively engage their audiences on a larger scale.
+The customers, including leading brands like HSBC, Orange, and GM Financial, can now meet consumers where they are across social media, messaging, email, voice, and more.
+#client_challenge
+Support the existing product, which allows customers to look for field experts and get consultation through communications channels; improve the legacy platform performance
+Implement a new solution that will initially operate in parallel with a legacy platform and then replace it Develop a new platform Web API that should seamlessly replace the existing one for the web and mobile clients
+Integration with multiple external interfaces like billing platforms, telephony gateway (Twilio), CyberSouce, Azure mail provider, FreshDesk, FullStory, NewRelic, marketing platform, SMS provider, etc.
+Host a decade-old solution within modern infrastructure based on Docker and K8s technologies
+#delphi_solution
+Provide a high-skilled development team for the customer
+Enhance the focus on quality by using modern techniques and approaches to minimize the risk of a production issue alongside with new features or changes in the existing functionality
+Introduce ReactJS and build an adaptation plan for the solution to create a modern responsive UI for a web application
+Use legacy platforms aside with the newest approaches and frameworks like k8s, .Net core, ReactJS etc
+Take an active part in production monitoring, as well as verifying possible impacts on technical and marketing metrics
+#technology_stack
+.Net Core, C#, Dockers, K8s, JavaScript, ReactJS, MS SQL, ASP.Net, WCF
+@Please contact us, if you need more information.
+Customer Experience Analytics
+Success Story
+NICE Systems solutions empower organizations to capture, analyze, and apply insights from both structured and unstructured Big Data in real time.
+Customer Engagement Analytics puts your Big Data solutions to work for you by utilizing powerful artificial intelligence (AI) and machine learning technologies within an analytics framework.
+#client_challenge
+Minimize development cost
+– NICE systems required Delphi to minimize overall development cost and meet all the necessary deadlines without compromising overall project code quality.
+Understand complex project requirements and multiple product versions
+– Delphi worked with NICE to understand their products’ complex project requirements and multiple branching versions.
+Constant software changes the minimal documentation – the NICE software constantly changed – and Delphi had to adapt to these changes, frequently lacking sufficient documentation.
+Support for diverse tools and technologies
+– Delphi had to work with NICE across multiple big data environments throughout the project, using dozens of different tools to ensure project success.
+Manage multiple live product installations
+– Delphi was responsible for installing and upgrading live product instances that were dispersed across different locations and distant geographical areas.
+#delphi_solution
+Delphi established a robust team for CEA division within six months, which gradually expanded to include more than 20 engineers
+Delphi team collaborates with a multi-location group (the USA, Israel, India)
+Despite the numerous challenges involved in this project, Delphi exceeded client’s expectations and outperformed the initial plans
+#technology_stack
+AWS, Linux | C#, .Net | JS, TS, HTML, CSS, Angular | C++ | Java, Spring | MS SQL | Jenkins, GitHub, Jira | Cucumber | X-Ray | Black Duck, Veracode | ML and AI | REST API
+@Please contact us, if you need more information.
+AI-Powered B2B Sales Platform
+Success Story
+Delphi Software helps a prominent startup company to develop a B2B sales-enablement platform
+that provides a real-time connection between experienced and satisfied customers and prospects looking to acquire similar products.
+The platform addresses significant pain points in a typical B2B sales cycle across various verticals. Via machine-learning algorithms, the platform onboards knowledgeable customers to utilize and benefit from their direct and valuable experience.The result is a high conversion rate, a significant shortening in the sales cycle, and unlocking of the product and business insights.
+#client_challenge
+As a startup company, the partner has a strict schedule and budget for platform development. Delphi team must initiate platform development from Day 1 without any delays, ensuring exceptional quality in both technology and management domains
+The team’s expertise must enable them to make critical decisions in the platform’s architecture and to implement them efficiently
+#delphi_solution
+Because of comprehensive expertise in startup support, Delphi Software appointed the “dream team” to evaluate all potential drawbacks and use efficient solutions
+Despite a highly dynamic development flow, the team became the project’s driving force
+As a result, the partner could successfully pass the required milestones and get the next investment round
+#technology_stack
+Node.js, Rest API, JavaScript, React, Redux, AWS, Machine Learning
+@Please contact us, if you need more information.
+Blockchain-Based Taxi Hailing Solution
+Success Story
+TaxiCoin is the blockchain-based ride-hailing solution, cryptograch.com, As Blockchain continues to be applied in the conventional business, the taxi industry is getting involved.
+TaxiCoin is the MVP prototype solution representing an example of an innovative taxi platform that uses Blockchain to revolutionize taxi rides. TaxiCoin can direct traffic from the Internet and add different services to meet users’ needs.
+#client_challenge
+Develop a blockchain-based ride-hailing solution that encompasses taxi-hailing and deliveries.
+Design and Implement MVP
+– create a White Labeling solution to demonstrate a product with essential functionality and prepared for subsequent transformation into a similar actual product
+#delphi_solution
+Provide the full-cycle implementation of cross-platform Mobile Applications (iOS and Android), Web Portal, Chat Bot, and Admin Panel
+Set up the implemented
+ICO landing page
+Implement smart contracts and deploy them to test Ethereum network – Kovan
+#technology_stack
+R&D: C#, Python, ASP.NET Core, AWS, PostgreSQL, Redis, HTML5/React, React Native, Ethereum/Solidity, Nethereum
+Testing: JMeter
+Virtualization: Docker
+DevOps: Docker Compose and Github
+@Please contact us, if you need more information.
+AI
+Boost your business using AI: unlock and exploit valuable data insights
+NICE Enlighten
+Success Story
+NICE Enlighten solutions leverage AI models and data intelligence to improve customer experiences by accurately understanding and addressing customer inquiries.
+It also generates valuable data and analytics on customer interactions, agent performance, and customer sentiment.
+#client_challenge
+Extreme agility – the Illuminate project was launched in the “startup mode” in the dynamically developing Gen AI area, which requires Delphi to adapt to changes quickly and efficiently.
+Requirement generation from scratch
+– The new project required shoulder-to-shoulder work from Product House and R&D to build mature content for development.
+Delphi team promoted discovery, research, and POC activities to feed products with details required for content generation.
+Support for diverse tools and technologies
+– NICE CXone suite is built using various programming languages and frameworks, іn addition to this new Gen AI area.
+Delphi having expertise in all modern domains, ensured rapid integration and development of necessary solutions in each technology area.
+LLM cost optimization to maximize profits
+– Delphi had to build infrastructure solution that would allow NICE to quickly switch between LLMs, making this transparent for internal and external clients.
+#delphi_solution
+Delphi established a robust team for Enlighten division which include 16 engineers
+The team was staffed with all the necessary specialists to
+own an e2e development cycle
+Delphi team collaborates with a multi-location group (the USA, Israel, India) and built an open, transparent, and constructive relationship
+#technology_stack
+AWS, Azure | Open AI LLMs, Bedrock LLMs | C#, .Net | JS, TS, HTML, CSS, Angular | Java, Spring | Python, Streamlit | DynamoDB, MS SQL | Jenkins, GitHub, Jira | Cucumber, Playwright | X-Ray | Black Duck, Veracode | REST API
+@Please contact us, if you need more information.
+AI Skill Testing for Recruitment
+Success Story
+Vervoe is a startup company providing an intelligent hiring platform that uncovers hidden talent through real-world tests, tasks, and tools as well as enables employers to evaluate candidates through the use of interviews remotely and automatically. It offers a remarkable depth of insight by leveraging data, revealing authentic contenders and providing everyone with an opportunity to showcase their abilities.
+Vervoe provides each candidate with an opportunity to demonstrate their capabilities, ensuring that candidates are well-informed about their current stage in the process and what they should anticipate.
+#client_challenge
+Adjust the data stored – most of the records are ambiguous or incomplete and cannot be used for machine learning algorithms
+Ensure the data science-based solution works with the extensive database for the model development
+Arrange the workflow of unreliable data from trial and test users
+Integrate the expected solution with the existing platform
+Support distributed processing of data to meet storage regulations
+Involve modern LLM/GTP approaches to allow cold-start scenarios for untrained/new models
+#delphi_solution
+Establish the development team covering major data science technologies expertise
+Perform deep research of various possible solutions
+Complete the design and development of the best solution discovered during the research
+Update the solution using data mining techniques to increase the model accuracy
+Create and implement a 5-level architecture of the ML models (more than 500 models working simultaneously in real time) that significantly enhance accuracy without sacrificing performance
+#technology_stack
+Machine learning technologies, statistical analysis, mathematical modelling, NLP
+Data mining and processing
+@Please contact us, if you need more information.
+Real-Time Detection Of Data Deviations
+Success Story
+The most effective way to detect and prevent network compromises and data breaches lies through the early recognition and investigation of potentially suspicious network activity.
+Delphi specialists participated in the development of Active Data Profiling that recognizes suspicious deviations in data flows and runs the corresponding alerts.
+#client_challenge
+Detect non-standard data chunks in real-time data flow – like non-standard activity of a particular user group, an unexpected response to a system update etc.
+Data comes in various formats and from different sources, internal & external ones Shift the solution to the cloud environment
+#delphi_solution
+Build & maintain corresponding
+ETL (Extract, Transform, Load) processes 
+Tune up Active Data Profiling algorithms in order to efficiency detect suspicious data
+Fix up malfunctioning and the corresponding data loses
+Present the visual representation of Big Data analytics
+Launch its own alarm system to report suspicions cases with different severity levels
+#technology_stack
+Spark, Kafka, Hadoop, ElasticSearch, MapReduce, Hive, Impala
+@Please contact us, if you need more information.
+Empowering B2B E-Commerce with ChatGPT
+Success Story
+Delphi Software’s partner needs to develop and integrate a ChatGPT plugin into a B2C e-commerce solution.
+The key feature of this plugin is its ability to perform advanced inventory stock searches based on user inquiries enhancing customer experience and streamlining the process of finding specific jewelry pieces within a large and diverse inventory.
+#client_challenge
+Increasing the User Base: The client aimed to increase their user base to significantly meet their growth targets
+Presenting Unique Features: The client acknowledged the necessity of incorporating distinct attributes into their platform to attract and retain users
+Creating a Competitive Advantage: The client sought to gain a competitive advantage by implementing cutting-edge technology, like the ChatGPT plugin, to provide a superior shopping experience
+Reusing existing infrastructure and environment
+#delphi_solution
+Implementation of a ChatGPT Plugin: Delphi created an AI-powered ChatGPT plugin to revolutionize user interactions and product search on the platform, attracting and retaining more users
+Scalability: The solution is scalable and adaptable, allowing the client to handle increasing user interactions as the platform grows
+Digital Shopping Assistant: The solution transforms the conventional search functionality into a digital shopping assistant, creating a more engaging shopping experience
+AI-Powered Search: This advanced search tool leverages AI to understand and process natural language inputs, making product search more intuitive and efficient
+#technology_stack
+OpenAI’s GPT Models | Node.js | AWS Lambda, AWS API Gateway, AWS Serverless Application Model
+@Pleasecontact us, if you need more information.
+Real-Time Alarm & Monitor Solution
+Success Story
+NICE Systems
+empowers organizations to capture, analyze, and apply insights from both structured and unstructured Big Data in real time.
+Due to the overall system complexity, it is vitally important to monitor the status of installed NICE products for a particular client and promptly raise alerts of varying severity in case of issues.
+#client_challenge
+Design
+the all-in-one comprehensive monitoring solution for all the company products
+Support the large-scale system monitoring – thousands of monitoring endpoints and metrics, running on up to hundreds of physical servers, are monitored by a single system Organize the reporting process grounded on the live analysis
+#delphi_solution
+Perform the research and alternative analysis for possible solutions
+Take full ownership of the product design, development and testing
+Establish the development team and process based on the Agile methodology from scratch
+Provide the product maintenance and “on field” support
+#technology_stack
+C#, T-SQL, HTML, JavaScript, .Net, ASP.Net, MVC, Rest API
+Web Services, WCF, MS Remoting, WMI, MS-SQL, LINQ, ADO.Net, Data Dude, WinForms, NMP, DopplerVUEAPI
+Bootstrap, AngularJS, jQuery, CS
+@Please contact us, if you need more information.
+Mixed Reality
+Realize more: merge different realities for your business success
+Immerse 3D: AR/MR Suite
+Success Story
+Arvizio Immerse 3D solution provides a suite of AR/MR capabilities to optimize and share complex 3D models and point clouds on multiple types of headsets and mobile devices.
+Immerse 3D also allows documents, images, and other project data to be included in the mixed and augmented reality experience without requiring the development of custom application software.
+#client_challenge
+Allow complex 3D images to be viewed by multiple team members, each with their own unique viewing perspective
+Efficiently handle large-scale 3D data for quick visualizationby processing raster, vector and volumetric 3D data types in order to provide real time visualizations with automatic level of detail (LOD)
+Provides multi-user and multi-site shared experiences Be easy to use & quick to deploy
+#delphi_solution
+Support extensible import of CAD, BIM and Point Cloud Models
+Implement industry leading mesh and point cloud model optimization
+Allow scalable Hybrid Rendering: a high-quality dynamic visualization of massive LiDAR scans (1B+ points)
+Provides multi-user and multi-site shared experiences
+Create Digital Twins with IoT Integration
+#technology_stack
+MS HoloLens, Magic Leap, Mobile (iOS , Android) | Unity, HoloLens Emulator | C#, C++ (CLR, Native) | .NET Framework, WPF, xBIM Toolkit, MRTK
+@Please contact us, if you need more information.
+AR Work Guidance & Expert Collaboration
+Success Story
+Arvizio
+AR Instructor provides on-the-job guidance using previously prepared step-by-step augmented reality instructions. The use of AR is proven to optimize operations, reduce errors and increase safety with easy-to-understand visual instructions that overlay the real world.
+In addition to guided workflows, AR Instructor provides real-time collaboration allowing field workers and remote experts to share information using video, audio, markups, and other tools to assist the field worker.
+#client_challenge
+Significantly improve operational efficiency
+Implement flexible workflow alignment options
+Alleviate communications between a remote expert and a field worker
+Use Digital Twins for off-site learning and instructions
+Support QR/Bar code scanning
+Automated quality inspection using computer vision
+Be user-friendly
+#delphi_solution
+Create step-by-step instructional workflows where assets, 3D models, videos, images, and documents can be shared with, annotated on, and synchronized with headset devices.
+Support various document, image and video formats via corresponding viewers.
+Elaborate and implement flexible workflow and remote expert assistance.
+Create the workflow to utilize 3D Digital Twins of physical equipment.
+Develop a GUI driven solution that requires approximately 15 min for installation and configuration.
+#technology_stack
+MS HoloLens, Magic Leap, Mobile (iOS , Android) | Unity, C#, .NET Framework, UWP  | MRTK, OpenXR, ZXing, Xamarin | AWS (S3, Lookout for Vision)
+@Please contact us, if you need more information.
+Computer Vision Development Framework
+Success Story
+Computer Vision is an AI technology that allows computers to understand and label images. Computer vision applications are now used for shopping in convenience stores, for driving and driverless car testing, daily medical diagnostics, and in monitoring the health of crops and livestock.
+NSIX Vision
+specializes in computer vision applications for automated manufacturing and system design for a broad range of digital imaging products.
+#client_challenge
+Design and develop a Computer Vision framework that allows creating, visualizing, testing in real time, editing and saving for continued use a complex graph of image processing components that will be used in Computer Vision processes
+Set up the scalable and extendable framework
+#delphi_solution
+Design and develop the requested scalable and extendable framework less than in a year
+Develop a set of Computer Vision components to be used with the framework including the component for hardware image acquisition (with cameras or scanners) and robots manipulation
+Deliver regular builds with almost zero bug ratio
+Organize efficient knowledge transfer process
+#technology_stack
+.NET, C#, WPF, Visual Studio SDK, MEF
+@Please contact us, if you need more information.
+Hybrid Educational Software
+Success Story
+The reality of tomorrow will not be static. The future has come, and it brings a daily look into the cutting-edge innovations in Augmented Reality, Virtual Reality, and Mixed Reality, poised to merge the impossible worlds of people’s imaginations with real life.
+Augmented Reality has started penetrating our lives, and it isn’t easy to restrict children from that. Its ability to engage kids has made AR a powerful tool for entertainment and education. AR technology can us let experience different phenomena. Unlike other forms of digital media, the primary activity in AR is interacting with the real world.
+Delphi Software works out
+a hybrid educational and entertaining application for children using augmented reality features.
+#client_challenge
+Research different technologies for AR application
+Introduce image processing methods and ways to implement in hybrid applications
+Work out a hybrid educational application for children with augmented reality
+#delphi_solution
+Develop the web browser and hybrid educational application with AR for children
+Research and implement different technologies for AR application
+Implement various image processing methods in hybrid applications
+Build 3D models and realize the analysis and updates of the JSARToolkit library
+#technology_stack
+•three.js, Apache Cordova, PhoneGap, JSARtoolkit, JQuery, Materialize, computer vision, JavaScript, CSS3, HTML5
+•Blender and Photoshop
+@Please contact us, if you need more information.
+Cloud & Networking
+Forge a cloud-powered path for your business needs
+File Storage Technology
+Success Story
+DELL, the world-leading end-to-end computing solutions company, as a line of business, allows its clients
+to keep, manage, and protect data with the scalable, end-to-end Dell storage technology stack.The Delphi team has participated in the creation of one among them –
+FluidFS – a fully distributed, clustered file storage solution that supports both high-capable and performance-intensive workloads.
+#client_challenge
+For cluster solutions, Dell needs to support various network storages, particularly Compellent and EqualLogic, to:
+Resolve most challenging problems related to
+data storage at scale
+Support for all up-to-date network file system protocols required for cluster management
+Manage installation and deployment systems as well as software update system
+#delphi_solution
+Establish a team of four engineers in 2010 and growing the team up to over 30 engineers in six years
+Organize efficient talent acquisition and knowledge transfer process
+Support for six generations of internal software solutions implemented to various file storage products
+Covering both development and system testing activitiesSuccessful work with multi-location distributed teams – Israel and the USA
+#technology_stack
+Networking, distributed file system, parallel processing, data placement, kernel tuning, load balancing, high availability, compression and de-duplication, clustering and more
+С++, С++11, Java, Angular JS, bash, make, boost, acexs
+@Please contact us, if you need more information.
+Software Defined Storage
+Success Story
+DELL EMC, the #1 provider of enterprise storage solutions in the world, as a line of business, delivers products and services that enable organizations to store, manage, protect, and analyze data efficiently.The Delphi teams have participated in creating an
+innovative software-defined scalable high-performance file storage solution that powers NAS capabilities in next-generation products of Dell EMC’s portfolio (PowerStore,PowerMax, PowerFlex).
+#client_challenge
+Develop clustering solution that scales Down, Up, and Out to hundreds of nodes with high availability of services, load balancing at failover time or on demand, supporting diverse platforms and ready for the cloud Orchestration of cluster installation/deployment and non-disruptive upgrades Multi-protocol single namespace at multi-petabyte scale across mixed platforms
+Live transparent migration from storage arrays of previous generations, leveraging the state-of-the-art data-path engine, supporting multi-protocol data import, cloud tiering technology, FLR, and automatic configuration importImplement the business logic of various management components in the control path
+#delphi_solution
+Establish two strong teams led by Delphi’s Senior Team/Tech Leads with an extension on the customer’s site
+Take ownership of significant features and cover the end-to-end development cycle: capturing requirements, design, implementation, functional and system testing, support, and maintenance
+Successfully delivered features and bug fixes to five major software releases in five years
+Facilitating the integration with consuming platforms, providing L4 customer supportEffective collaboration with multinational distributed teams (Israel, France, USA, Ireland, India, China)
+#technology_stack
+Networking, file sharing (SMB, NFS, FTP), REST API, clustering, high availability, load balancing, containerization, non-disruptive upgrade, single namespace, Active Directory, LDAP, NIS, live migration, cloud tiering, replication, STIG hardening
+С++, Python, Perl, Bash; Swagger, Protobuf; Docker, Ansible, VMware ESXi, SLESSAFe, Scrum@Scale
+@Please contact us, if you need more information.
+Network Converged Security Platform
+Success Story
+Perimeter 81, as a part of CheckPoint Software Technologies, develops a converged networking and security cloud edge delivered in a software-as-a-service model. It offers global gateway deployment and multi-tenant management, allowing the distributed workforce to securely access company resources, whether these are in the cloud or on-premises. It secures remote networks, based on the zero-trust architecture, for organizations. The platform intends
+to replace the traditional VPN service with a firewall as a service (FWaaS) solution. It is a user-centric security bearing dedicated to preventing password theft attacks. It protects online users by using a secure web gateway, replacing multiprotocol label switching and enabling connection between offices via SD-WAN.
+#client_challenge
+Extend engineering department with high-demand full-stack JS in AWS resources
+Develop CyberSecurity platform based on AWS cloud and supporting Windows, Linux, Android, MacOs
+agents
+Develop Security Web Gateway to protect user and company from internet-based threats, limit user access to illiterate sites, decrypt internet traffic, and inspects the contentDevelop Device Posture Check to verify device compliance
+#delphi_solution
+Establish several strong teams led by Delphi Team/Tech Lead
+Take full ownership of Billing System domain, providing continuous delivery and maintenance
+Integrate Perimeter81 Platform with PSA (professional services automation) business (Chargebee, ConnectWise, Atera)
+Develop and implement Perimeter81 corporate siteCover customer escalations promptly to meet customer expectations
+#technology_stack
+AWS SaaS, AWS IaaS, AWS PaaS
+Windows, MacOs, WebStorm, Visual Studio Code, DataDog, Grafana, GitHub, TeamCity, MongoDb, Redis, WordPress, C#, JavaPHP, JavaScript, Node.js, React, NestJs, Fastify, Express
+@Please contact us , if you need more information.
+Gigabit Wireless Network Solutions
+Success Story
+Siklu delivers
+multi-gigabit fiber-like wireless broadband connectivity in urban, suburban and rural areas.
+Operating in the millimeter wave (mmWave) bands, Siklu’s provides reliable wireless solutions for leading service providers, safe city, and smart city projects worldwide.  Siklu offers street level and rooftop solutions, including small cell backhaul, LTE/LTE-A backhaul, WiFibackhaul, business broadband connectivity, wireless security networks, smart city networks, enterprise and campus connectivity, and residential broadband connectivity for various markets.
+#client_challenge
+Design and develop a new WiGig communication device product alongside simultaneously support of legacy P2P V-band, E-Band product lines
+Expand the team with Network, Web design, Embedded, QA, and DevOps Engineers
+Design and develop a new network topology planning application
+Design and develop a new application that configures the network and monitors devices’ state via NETCONF protocolDesign and develop CI ecosystem for all Siklu software products
+#delphi_solution
+Organize the efficient talent acquisition and establish a team of C++, Full Stack Web, QA, and DevOps engineers
+Successfully commit the entire code of the new WiGig communication device with self-backhaul, autonomous L2 network self-healing ability feature
+Provide detailed design documentation and distinguished UI/UX prototyping
+Complete the web solution development and deploy a production version
+Implement a scalable CI framework on top of Jenkins and the production laboratory
+#technology_stack
+Linux Kernel, IP stack, C, C++
+Java | Spring | Spring Boot | MySQL| MongoDB| Keycloak | HTML / TypeScript / Angular | UI/UX design | Python
+GitHub | Jenkins | Docker |  Kubernetes | Nexus | Groovy | SonarQube
+@Please contact us, if you need more information.
+DELPHI SOFTWARE
+Vinnytsia
+Ukraine
+600-Richchya, 17, Vinnitsa, Ukraine, 21021
++380 (432) 550399
+DELPHI SOFTWARE
+Kyiv
+Ukraine
+Dniprovs'ka embankment, 26Zh, Kyiv, Ukraine, 02132
++380 (44) 3928030
+DELPHI SOFTWARE
+Redwood  City
+California, USA
+555 Twin Dolphin Drive, Suite 135, Redwood City, California, USA
++1 (650) 394-4118
+info@udelphi.com
