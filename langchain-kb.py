@@ -9,8 +9,8 @@ from langchain.chains.conversational_retrieval.prompts import CONDENSE_QUESTION_
 from langchain_community.chat_models import BedrockChat
 
 #Configure streamlit app
-st.set_page_config(page_title="Employee HR Bot")
-st.title("Employee HR Bot")
+st.set_page_config(page_title="Delphi Software Bot")
+st.title("Delphi Software Bot")
 
 #Define the retriever
 retriever = AmazonKnowledgeBasesRetriever(
