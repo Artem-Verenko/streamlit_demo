@@ -1,4 +1,9 @@
 # Delphi Software Bot (Streamlit Demo Application)
+
+# :warning: **IMPORTANT NOTICE** :warning:
+
+I have **stopped and terminated all active AWS resources** in my account to ensure that no charges will be incurred. 
+
 ![image](https://github.com/user-attachments/assets/1b6bc740-a090-4d8a-986c-d51705d26384)
 
 This project is a demo application built with Streamlit and LangChain. It serves as a conversational assistant, leveraging AWS Bedrock and other tools to retrieve and process knowledge base information. The app is designed to answer user queries based on contextual knowledge from a defined knowledge base.
