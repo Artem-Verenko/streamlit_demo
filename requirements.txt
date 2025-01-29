@@ -1,7 +1,9 @@
-streamlit
-boto3
-langchain
-langchain_community
-selenium
 beautifulsoup4
-tldextract
+selenium
+langchain
+sentence-transformers
+faiss-cpu
+streamlit
+openai
+streamlit-chat
+langchain-community

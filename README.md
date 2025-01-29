@@ -1,110 +1,75 @@
-# Delphi Software Bot (Streamlit Demo Application)
+# Delphi Software AI ChatBot 💬
 
-# :warning: **IMPORTANT NOTICE** :warning:
+Welcome to the **Delphi Software AI ChatBot**, a smart and efficient chatbot designed to provide intelligent answers based on your organization's data. Built with Streamlit, LangChain, FAISS, and HuggingFace embeddings, this chatbot offers a seamless and user-friendly experience.
 
-I have **stopped and terminated all active AWS resources** in my account to ensure that no charges will be incurred. 
+## 🚀 Features
 
-![image](https://github.com/user-attachments/assets/1b6bc740-a090-4d8a-986c-d51705d26384)
+- **Intelligent Q&A**: Leverages advanced language models to answer user queries accurately.
+- **Efficient Data Retrieval**: Utilizes FAISS vector stores for fast and relevant information retrieval.
+- **Customizable Embeddings**: Supports multiple HuggingFace embedding models to suit your needs.
+- **User-Friendly Interface**: Features a sleek, floating chat window for easy access without cluttering the main page.
+- **Persistent Data Storage**: Saves and loads vector stores to optimize performance and reduce load times.
 
-This project is a demo application built with Streamlit and LangChain. It serves as a conversational assistant, leveraging AWS Bedrock and other tools to retrieve and process knowledge base information. The app is designed to answer user queries based on contextual knowledge from a defined knowledge base.
+## 🛠️ Technologies Used
 
-## Features
-- Conversational interface powered by Streamlit.
-- Integration with AWS services for knowledge retrieval.
-- Context-aware answers using LangChain.
-- Persistent memory for chat history.
+- [Streamlit](https://streamlit.io/) for the interactive web interface.
+- [LangChain](https://github.com/hwchase17/langchain) for chaining language models.
+- [FAISS](https://github.com/facebookresearch/faiss) for efficient similarity search.
+- [HuggingFace Embeddings](https://huggingface.co/models) for text embeddings.
+- [ChatGPT](https://openai.com/blog/chatgpt) as the language model backend.
 
----
+## 📥 Installation
 
-## Deployment Instructions
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/yourusername/delphi-ai-chatbot.git
+   cd delphi-ai-chatbot
+   ```
+2. **Create a Virtual Environment**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate
+   # On Windows:
+   venv\Scripts\activate
+   ```
+3. **Install Dependencies**
 
-### Prerequisites
-Ensure the following are installed on your local machine or server:
-1. Python 3.9 or newer
-2. AWS CLI configured with valid credentials
-3. `git` for version control
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-### Deployment on AWS EC2
+4. **Set Up Environment Variables**
 
-#### Step 1: Launch an EC2 Instance
-1. Log in to your AWS Management Console.
-2. Launch an EC2 instance using the **Ubuntu 22.04** AMI.
-3. Attach a security group that allows inbound traffic on ports **22** (SSH) and **8501** (Streamlit).
+   Create a `.env` file in the root directory and add your OpenAI API key:
 
-#### Step 2: SSH into the Instance
-```bash
-ssh -i your-key.pem ubuntu@<EC2_PUBLIC_IP>
-```
+   ```plaintext
+   OPENAI_API_KEY=your_openai_api_key_here
+   ```
 
-#### Step 3: Install Dependencies
-```bash
-sudo apt update
-sudo apt install -y python3 python3-pip python3-venv git
-```
+5. **Prepare Your Data**
 
-#### Step 4: Clone the Repository
-```bash
-git clone https://github.com/<your-username>/<your-repo>.git streamlit_demo
-cd streamlit_demo
-```
+   Ensure your data is chunked and saved in a JSON file, e.g., `./data/content_chunks.json`, following the structure:
 
-#### Step 5: Set Up a Virtual Environment
-```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install --upgrade pip
-pip install -r requirements.txt
-```
+   ```json
+   [
+       {
+           "data_link": "#/careers/2207",
+           "chunk_id": "1",
+           "content": "Your content here..."
+       },
+       ...
+   ]
+   ```
 
-#### Step 6: Run the Application
-```bash
-streamlit run langchain-kb.py --server.port 8501 --server.enableCORS false --server.headless true
-```
+## 🎯 Usage
 
-#### Step 7: Keep the Application Running
-Use one of the following tools to ensure the app continues running:
-- **systemd**:
-  - Create a service file:
-    ```bash
-    sudo nano /etc/systemd/system/streamlit.service
-    ```
-    Add the following content:
-    ```
-    [Unit]
-    Description=Streamlit Service
-    After=network.target
+1. **Run the Streamlit App**
 
-    [Service]
-    User=ubuntu
-    WorkingDirectory=/home/ubuntu/streamlit_demo
-    ExecStart=/home/ubuntu/streamlit_demo/venv/bin/streamlit run langchain-kb.py --server.port 8501 --server.enableCORS false --server.headless true
-    Restart=always
+   ```bash
+   streamlit run app.py
+   ```
 
-    [Install]
-    WantedBy=multi-user.target
-    ```
-  - Start and enable the service:
-    ```bash
-    sudo systemctl start streamlit
-    sudo systemctl enable streamlit
-    ```
-
-- **screen**:
-  ```bash
-  screen -S streamlit
-  streamlit run langchain-kb.py --server.port 8501 --server.enableCORS false --server.headless true
-  ```
-  Press `Ctrl+A` then `D` to detach.
-
-- **tmux**:
-  ```bash
-  tmux new -s streamlit
-  streamlit run langchain-kb.py --server.port 8501 --server.enableCORS false --server.headless true
-  ```
-  Press `Ctrl+B` then `D` to detach.
-
-#### Step 8: Access the Application
-Visit the following URL in your browser:
-```
-http://<EC2_PUBLIC_IP>:8501
-```
+2. **Interact with the ChatBot**
+   - Use the configuration sidebar to set the base URL, path to your JSON data, select embedding and ChatGPT models.
+   - Click on the 💬 button at the bottom-right to open the chat window.
+   - Ask your questions and receive intelligent answers in real-time.
